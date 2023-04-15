@@ -1,0 +1,5 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0.0" name="Spawn" description="Spwan Shod" type="script"/>
+    <script src="Server.lua" type="server" />
+    <script src="Client.lua" type="Client" cache="false" />
+</meta>
